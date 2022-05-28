@@ -1,1 +1,3 @@
 venv/
+labeledTrainData.tsv
+.ipynb_checkpoints/
