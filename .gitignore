@@ -1,3 +1,5 @@
 venv/
 labeledTrainData.tsv
-.ipynb_checkpoints/
+test.ipynb
+dataset_training_clean.csv
+*.ipynb_checkpoints

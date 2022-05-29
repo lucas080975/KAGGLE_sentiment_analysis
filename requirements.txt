@@ -10,3 +10,4 @@ nltk
 transformers
 seaborn
 bs4
+gensim
